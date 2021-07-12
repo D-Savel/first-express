@@ -1,0 +1,6 @@
+Mon, 12 Jul 2021 13:46:35 GMT GET "/hello" from 127.0.0.1 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+Mon, 12 Jul 2021 13:47:02 GMT GET "/bye" from 127.0.0.1 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+Mon, 12 Jul 2021 14:28:22 GMT GET "/bye" from 127.0.0.1 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+Mon, 12 Jul 2021 14:28:52 GMT GET "/bye" from 127.0.0.1 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+Mon, 12 Jul 2021 14:29:19 GMT GET "/bye" from 127.0.0.1 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+Mon, 12 Jul 2021 14:31:03 GMT GET "/bye" from 127.0.0.1 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
